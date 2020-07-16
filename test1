@@ -1,7 +1,5 @@
-echo "# httpdtest" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/kathy1121/httpdtest.git
-git push -u origin master
-                
+<html>
+  <body>
+    <h1>Hello Kathy,Openshift Training Group One !!!</h1>
+   <body>
+  </html>
